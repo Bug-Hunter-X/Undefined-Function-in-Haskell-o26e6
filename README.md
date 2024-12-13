@@ -1,0 +1,1 @@
+This repository demonstrates a common Haskell error: calling an undefined function.  The `bug.hs` file contains the erroneous code. The `bugSolution.hs` file provides the corrected version.  This is a simple example to highlight the importance of defining all functions used in your Haskell programs before calling them.
