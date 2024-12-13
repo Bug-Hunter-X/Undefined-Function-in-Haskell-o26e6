@@ -1,0 +1,1 @@
+This Haskell code uses an undefined function which causes a runtime error.  The function `mysteryFunction` is called, but it's never defined.
